@@ -1,5 +1,6 @@
 .Weather {
-  border: 1px soild #dadde1;
+  padding: 20px;
+  border: 1px soild #9a9c9e;
 }
 .Weather ul {
   list-style-type: none;
